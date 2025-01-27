@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Vega_ortega_alejandro_pmdm3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/pokemon_yellow</item>
+        <item name="colorPrimaryVariant">@color/pokemon_red</item>
+        <item name="colorSecondary">@color/pokemon_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.Vega_ortega_alejandro_pmdm3" parent="Base.Theme.Vega_ortega_alejandro_pmdm3" />
+</resources>
